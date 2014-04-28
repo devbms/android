@@ -46,6 +46,8 @@
   <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" groups="device" />
   <project path="device/bn/hummingbird" name="devbms/android_device_bn_hummingbird" />
+  <project path="device/bn/common" name="devbms/android_device_bn_common" />
+  <project path="kernel/bn/omap" name="devbms/android_kernel_bn_omap" />
   <project path="vendor/bn" name="devbms/proprietary_vendor_bn" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
